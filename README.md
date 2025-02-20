@@ -6,6 +6,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I have no fun facts, that's actually a big fact... So do I have a fun fact... yes ? But if I have facts, I have facts, so I don't have no facts... ouuuuchhh my mind ...
 
+- Kaggle account : alexandremartel2201 (most of my work is private sry)
+
 <!---
 alexandre-martel/alexandre-martel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

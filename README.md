@@ -7,6 +7,7 @@
 - ⚡ Fun fact: I have no fun facts, that's actually a big fact... So do I have a fun fact... yes ? But if I have facts, I have facts, so I don't have no facts... ouuuuchhh my mind ...
 
 - Kaggle account : alexandremartel2201 (most of my work is private sry)
+- Can check Chat-sillage organization where i am Project leader of a group of 12 engineering students creating a chatbot for the medical sector. (https://github.com/Chatt-Sillage)
 
 <!---
 alexandre-martel/alexandre-martel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

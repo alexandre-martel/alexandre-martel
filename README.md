@@ -1,9 +1,9 @@
 # Alexandre Martel
 **AI Engineer | Systems & Data Science**
+---
 
 I am very insterested in Reinforcement Learning, AGI and System 2
 You can check my paper and projects on Linkedin / sending my an email.
----
 
 ### Technical Focus
 * **AI & Research:** Computer vision, GPU Optimization, Reinforcement Learning and LLMs

@@ -2,11 +2,11 @@
 **AI Engineer | Systems & Data Science**
 ---
 
-I am very insterested in Reinforcement Learning, AGI and System 2
+I am very insterested in Reinforcement Learning and GPU optimization
 You can check my paper and projects on Linkedin / sending my an email.
 
 ### Technical Focus
-* **AI & Research:** Computer vision, GPU Optimization, Reinforcement Learning and LLMs
+* **AI & Research:** GPU Optimization, Reinforcement Learning and LLMs
 * **Data Science:**  Machine Learning, Statistical modeling and Probability
 
 ### Key Projects

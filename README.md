@@ -22,6 +22,6 @@ You can check my paper and projects on Linkedin / sending my an email.
 * **Tools:** Linux, Docker, Git, CUDA, MnMs.
 
 ### Contact
-* **GitLab:** [alexandre.martel2201@gmail.com](https://gitlab.com/alexandre-martel)
+* **GitLab:** [Gitlab](https://gitlab.com/alexandre-martel)
 * **Email:** alexandre.martel2201@gmail.com
 * **Linkedin:** https://www.linkedin.com/in/alexandre-martel-/

@@ -1,5 +1,5 @@
 # Alexandre Martel
-**AI Engineer | Systems & Data Science**
+**Reinforcement Learning Engineer | Maths & Data Science**
 ---
 
 I am very insterested in Reinforcement Learning and GPU optimization

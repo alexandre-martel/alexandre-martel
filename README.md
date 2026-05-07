@@ -19,8 +19,9 @@ You can check my paper and projects on Linkedin / sending my an email.
 ### Technical Stack
 * **Languages:** Python, Web2 (SQL, TS, Laravel, React) Web3 (Solidity), C and Rust
 * **AI stack:** PyTorch, Tensorflow, JAX (intermediate), Langchain, Rupture, Gymnasium
-* **Tools:** Linux/Bash, Docker, Git, CUDA, SUMO.
+* **Tools:** Linux, Docker, Git, CUDA, MnMs.
 
 ### Contact
+* **GitLab:** [alexandre.martel2201@gmail.com](https://gitlab.com/alexandre-martel)
 * **Email:** alexandre.martel2201@gmail.com
 * **Linkedin:** https://www.linkedin.com/in/alexandre-martel-/
